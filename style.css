@@ -3,6 +3,8 @@ body{
     padding: 0;
     background: url(https://cdn.discordapp.com/attachments/498784706733670400/1018896754390863983/unknown.png) no-repeat;
     background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 .box{
     width: 450px;
